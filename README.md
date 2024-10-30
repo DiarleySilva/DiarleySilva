@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Diarley Silva Santos</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
 
 - 🌱 Atualmente estou estudando **Java**
 
